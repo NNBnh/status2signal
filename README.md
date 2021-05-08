@@ -1,3 +1,5 @@
+> # Moved to https://github.com/info-mono/status2signal
+
 <h1 align="center"><code>status2signal</code></h1>
 <p align="center">Status code to signal name converter</p>
 <p align="center"><a href="https://github.com/NNBnh/status2signal/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/status2signal?labelColor=073551&color=4EAA25&style=for-the-badge" alt="License: GPL-3.0"></a> <img src="https://img.shields.io/badge/development-completed-%234EAA25.svg?labelColor=073551&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></p>
